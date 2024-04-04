@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SampleUTS2</string>
+    <string name="lirik_lagu_1">
+        Perjalanan membawamu\n
+        Bertemu denganku\n
+        Ku bertemu kamu\n
+        Sepertimu yang kucari\n
+        Konon aku juga seperti yang kau cari\n
+    </string>
+    <string name="lirik_lagu_2">
+        Wong ko ngene kok dibanding-bandingke\n
+        Saing-saingke yo mesti kalah\n
+        Tak oyako aku yo ora mampu\n
+        Mung sak kuatku mencintaimu\n
+    </string>
+</resources>
